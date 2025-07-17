@@ -1,5 +1,5 @@
 # Hi. I am Nisarga Murthy.
-MCA student<br>Always learning. Always building.
+Computer Science student.<br>Always learning. Always building.
 
 <br>
 
