@@ -9,7 +9,7 @@ Computer Science student.<br>Always learning. Always building.
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nxshh&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=nxshh&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxshh&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
